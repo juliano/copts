@@ -1,0 +1,4 @@
+[package]
+name = "terminator"
+version = "0.1.0"
+authors = ["Juliano Alves <von.juliano@gmail.com>"]
